@@ -3,3 +3,8 @@
 
 // prints "hi" in the browser's dev tools console
 console.log("hi");
+
+//$(".b1").click(function(){
+  //$(".div2").show();
+  //$(".div1").hide();
+//});
